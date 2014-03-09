@@ -1,0 +1,13 @@
+Name:                amarillo
+Version:             0.0
+Synopsis:            A simple CMS written with Happstack
+Description:         A simple CMS written with Happstack
+                     Nothing too fancy
+License:             MIT
+License-file:        LICENSE
+Author:              Enguerrand Decorne
+Maintainer:          Don Stewart <decorne.en@gmail.com>
+Build-Depends:       happstack-server, happstack-authenticate
+
+Executable:          amarillo
+Main-is:             main.hs
